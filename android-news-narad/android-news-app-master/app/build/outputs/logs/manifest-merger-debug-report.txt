@@ -1,0 +1,221 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:2:1-36:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\bf897d88c3b585e3e9279ccde180d57d\material-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\8b73c3c5dac00295b925b784073d2040\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\448f23e8eac4f156077d0a03db47688b\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\01a9fb3be8ce56617b5b173766f9a32b\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\1e2ec140616ebc9b0d43d5178b6fd490\recyclerview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\8d5366fb377360277af90eeda40910c0\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\5fa104e1954e448727fe2916e175f48d\jetified-glide-4.9.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\2184d643e3dc48ec088093bf4703920b\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\0d41efc8fc480fdbcebe08adf1cc73b2\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\5afbd2e3ff40e1a24c8cdb6837a4ab67\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\fade21b6694cfeb68ad0ef3199ce3e4f\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\3d5e39545d4f06e27dccf8e0fd93a524\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\f5280ce5b6d316a5f6a713daf8f83f98\transition-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\05262f07e46b417e039eb5ae9f0de398\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\181f7461973af8f178012410b1340b04\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\9720615832e33c09e80adec3949b7160\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\088d7d849f49f07ab53816da761fdba5\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\7da3bd7dc30f532c7dd6822fc53d0cd6\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\ca3ac447b8c6e554bbc3ca315b4dcd73\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\3db22d1e2e19178b84c0650596482ae1\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\90103bf4bd44dc5e356d32430d0e4a40\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\ca6c92c0412375108e40c258555cdb04\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\68eff87d696ed4c13840b7b9185e72ab\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\67f0a30572940b788eb06865cc4e5cfd\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\395dcef454f25521e51182a527203fae\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\d8508a3248c27b2f368880f7828c0b34\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\38ce660c3c6e2edbed57e644b89f201d\jetified-gifdecoder-4.9.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\f6c967d4d0430ad205dda58018793e9b\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\628128fe67f31f513c0449e18c2df100\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\21b3db2190fa0fa216576375ad80ae54\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\75fb746d84c0a1a4c5ff7277dfd70d80\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\7e92cdd294dbda435b317748899b64a9\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\358676f876d126cdb93dc2ae9e640f56\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\2ae806ece2580bf69becc3d2183e441c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\ff8e00f72654800a11574b55f214c01b\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\b5a6f850a8cbad14b557755a4a739154\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\01db54804b66b2b8f058ea79386ae547\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\99cdd22df1372f469fb8c2408d666ead\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:2:1-36:12
+INJECTED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:2:1-36:12
+		INJECTED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:6:22-76
+application
+ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:8:5-34:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\bf897d88c3b585e3e9279ccde180d57d\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\bf897d88c3b585e3e9279ccde180d57d\material-1.0.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\448f23e8eac4f156077d0a03db47688b\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\448f23e8eac4f156077d0a03db47688b\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\5fa104e1954e448727fe2916e175f48d\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\5fa104e1954e448727fe2916e175f48d\jetified-glide-4.9.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\395dcef454f25521e51182a527203fae\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\395dcef454f25521e51182a527203fae\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\38ce660c3c6e2edbed57e644b89f201d\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\38ce660c3c6e2edbed57e644b89f201d\jetified-gifdecoder-4.9.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\f6c967d4d0430ad205dda58018793e9b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\f6c967d4d0430ad205dda58018793e9b\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\395dcef454f25521e51182a527203fae\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.android.narad.MainActivity
+ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:16:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:22:27-74
+activity#com.example.android.narad.SettingsActivity
+ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:25:9-33:20
+	android:screenOrientation
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:29:13-49
+	android:label
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:28:13-52
+	android:theme
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:27:13-49
+	android:name
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:26:13-70
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:30:13-32:74
+	android:value
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:32:17-71
+	android:name
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml:31:17-63
+uses-sdk
+INJECTED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\bf897d88c3b585e3e9279ccde180d57d\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\bf897d88c3b585e3e9279ccde180d57d\material-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\8b73c3c5dac00295b925b784073d2040\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\8b73c3c5dac00295b925b784073d2040\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\448f23e8eac4f156077d0a03db47688b\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\448f23e8eac4f156077d0a03db47688b\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\01a9fb3be8ce56617b5b173766f9a32b\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\01a9fb3be8ce56617b5b173766f9a32b\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\1e2ec140616ebc9b0d43d5178b6fd490\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\1e2ec140616ebc9b0d43d5178b6fd490\recyclerview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\8d5366fb377360277af90eeda40910c0\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\8d5366fb377360277af90eeda40910c0\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\5fa104e1954e448727fe2916e175f48d\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\5fa104e1954e448727fe2916e175f48d\jetified-glide-4.9.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\2184d643e3dc48ec088093bf4703920b\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\2184d643e3dc48ec088093bf4703920b\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\0d41efc8fc480fdbcebe08adf1cc73b2\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\0d41efc8fc480fdbcebe08adf1cc73b2\jetified-appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\5afbd2e3ff40e1a24c8cdb6837a4ab67\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\5afbd2e3ff40e1a24c8cdb6837a4ab67\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\fade21b6694cfeb68ad0ef3199ce3e4f\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\fade21b6694cfeb68ad0ef3199ce3e4f\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\3d5e39545d4f06e27dccf8e0fd93a524\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\3d5e39545d4f06e27dccf8e0fd93a524\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\f5280ce5b6d316a5f6a713daf8f83f98\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\f5280ce5b6d316a5f6a713daf8f83f98\transition-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\05262f07e46b417e039eb5ae9f0de398\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\05262f07e46b417e039eb5ae9f0de398\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\181f7461973af8f178012410b1340b04\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\181f7461973af8f178012410b1340b04\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\9720615832e33c09e80adec3949b7160\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\9720615832e33c09e80adec3949b7160\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\088d7d849f49f07ab53816da761fdba5\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\088d7d849f49f07ab53816da761fdba5\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\7da3bd7dc30f532c7dd6822fc53d0cd6\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\7da3bd7dc30f532c7dd6822fc53d0cd6\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\ca3ac447b8c6e554bbc3ca315b4dcd73\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\ca3ac447b8c6e554bbc3ca315b4dcd73\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\3db22d1e2e19178b84c0650596482ae1\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\3db22d1e2e19178b84c0650596482ae1\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\90103bf4bd44dc5e356d32430d0e4a40\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\90103bf4bd44dc5e356d32430d0e4a40\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\ca6c92c0412375108e40c258555cdb04\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\ca6c92c0412375108e40c258555cdb04\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\68eff87d696ed4c13840b7b9185e72ab\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\68eff87d696ed4c13840b7b9185e72ab\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\67f0a30572940b788eb06865cc4e5cfd\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\67f0a30572940b788eb06865cc4e5cfd\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\395dcef454f25521e51182a527203fae\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\395dcef454f25521e51182a527203fae\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\d8508a3248c27b2f368880f7828c0b34\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\d8508a3248c27b2f368880f7828c0b34\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\38ce660c3c6e2edbed57e644b89f201d\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\38ce660c3c6e2edbed57e644b89f201d\jetified-gifdecoder-4.9.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\f6c967d4d0430ad205dda58018793e9b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\f6c967d4d0430ad205dda58018793e9b\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\628128fe67f31f513c0449e18c2df100\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\628128fe67f31f513c0449e18c2df100\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\21b3db2190fa0fa216576375ad80ae54\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\21b3db2190fa0fa216576375ad80ae54\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\75fb746d84c0a1a4c5ff7277dfd70d80\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\75fb746d84c0a1a4c5ff7277dfd70d80\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\7e92cdd294dbda435b317748899b64a9\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\7e92cdd294dbda435b317748899b64a9\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\358676f876d126cdb93dc2ae9e640f56\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\358676f876d126cdb93dc2ae9e640f56\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\2ae806ece2580bf69becc3d2183e441c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\2ae806ece2580bf69becc3d2183e441c\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\ff8e00f72654800a11574b55f214c01b\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\ff8e00f72654800a11574b55f214c01b\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\b5a6f850a8cbad14b557755a4a739154\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\b5a6f850a8cbad14b557755a4a739154\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\01db54804b66b2b8f058ea79386ae547\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\01db54804b66b2b8f058ea79386ae547\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\99cdd22df1372f469fb8c2408d666ead\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\impra\.gradle\caches\transforms-2\files-2.1\99cdd22df1372f469fb8c2408d666ead\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml
+INJECTED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml
+		ADDED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml
+		INJECTED from D:\git\android-news-narad\android-news-app-master\app\src\main\AndroidManifest.xml

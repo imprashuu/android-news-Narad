@@ -1,0 +1,4 @@
+#Thu Apr 06 03:08:29 IST 2023
+base.0=D\:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

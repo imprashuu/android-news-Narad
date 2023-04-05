@@ -1,0 +1,358 @@
+[
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_world.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_world.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_science.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_science.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_sport.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_sport.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_science.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_science.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_business.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_business.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_business.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_business.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_narad.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable\\narad.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_network_check.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_network_check.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_science.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_science.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_world.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_world.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_sport.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_sport.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_society.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_society.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_activity_main_drawer.xml.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_share_black_18dp.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-hdpi\\ic_share_black_18dp.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_environment.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_environment.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_share_black_18dp.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-mdpi\\ic_share_black_18dp.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\xml_settings_main.xml.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\xml\\settings_main.xml"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_network_check.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_network_check.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_business.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_business.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_business.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_business.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_fashion.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_fashion.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_culture.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_culture.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_settings_activity.xml.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\layout\\settings_activity.xml"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_home.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_home.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_share_black_18dp.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_share_black_18dp.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_environment.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_environment.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_sport.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_sport.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_home.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_home.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_fashion.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_fashion.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_society.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_society.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_sport.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_sport.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_science.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_science.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_news_card_item.xml.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\layout\\news_card_item.xml"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_society.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_society.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_fashion.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_fashion.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_share_black_18dp.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_share_black_18dp.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_culture.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_culture.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_environment.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_environment.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_network_check.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-mdpi\\ic_network_check.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_culture.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_culture.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_world.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_world.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_society.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_society.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_science.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_science.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_share_black_18dp.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_share_black_18dp.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_home.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_home.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_home.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_home.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image_button_style.xml.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable\\image_button_style.xml"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_environment.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_environment.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_network_check.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-hdpi\\ic_network_check.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_gradient.xml.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable\\gradient.xml"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_menu_environment.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_environment.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_side_nav_bar.xml.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_business.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_business.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_network_check.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_network_check.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_fashion.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_fashion.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_world.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_world.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_culture.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_culture.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_fashion.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_fashion.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_bar_main.xml.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_culture.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_culture.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_menu_society.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xxhdpi\\ic_menu_society.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_main.xml.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_nav_header_main.xml.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_menu_home.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xhdpi\\ic_menu_home.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_menu_sport.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-hdpi\\ic_menu_sport.png"
+    },
+    {
+        "merged": "D:\\git\\android-news-narad\\android-news-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_menu_world.png.flat",
+        "source": "D:\\git\\android-news-narad\\android-news-app-master\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_menu_world.png"
+    }
+]
